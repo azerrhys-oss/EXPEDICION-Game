@@ -1,0 +1,13 @@
+LA EXPEDICIÓN CURIOSA — versión instalable
+
+Esta carpeta es el juego completo. Funciona sin internet una vez instalado.
+No usa cuentas, no envía datos: el progreso queda solo en el celular.
+
+Para publicarla (una sola vez):
+1. Entrá a https://app.netlify.com/drop desde la computadora.
+2. Arrastrá esta carpeta entera (o el .zip) al recuadro.
+3. Creá tu cuenta gratuita o iniciá sesión para "reclamar" el sitio; si no, queda con una contraseña temporal.
+4. Copiá la dirección que termina en .netlify.app y abrila en Chrome del celular.
+5. Menú ⋮ → "Instalar app" (o "Agregar a la pantalla principal").
+
+Para actualizar: en el panel de Netlify, "Deploys" → arrastrar la carpeta nueva.
